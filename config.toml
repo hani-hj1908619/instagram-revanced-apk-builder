@@ -9,5 +9,6 @@ parallel-jobs = 1
 [Instagram]
 build-mode = "both"
 arch = "both"
+apkmirror-dpi = "320-480dpi"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram"
